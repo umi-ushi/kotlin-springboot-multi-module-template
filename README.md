@@ -1,11 +1,11 @@
 # Goals
 
-kotlin + spring-boot + gradle + multi-project building
+kotlin + spring-boot + gradle + multi-module building
 
 # Module-Structure
 ```text
 ---root
-     |--- src.main.kotlin.KotlinSpringBootPlaygroundApplication.kt
+     |--- src.main.kotlin.KotlinSpringbootMultiModuleTemplateApplication.kt
      |--- settings.gradle.kts
      |--- build.gradle.kts
      | // ↓ sub modules
